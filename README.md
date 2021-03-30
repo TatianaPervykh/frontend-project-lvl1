@@ -1,4 +1,4 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/TatianaPervykh/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/TatianaPervykh/frontend-project-lvl1/actions)
 
-https://codeclimate.com/github/codeclimate/codeclimate/maintainability
+{<img src="https://api.codeclimate.com/v1/badges/345da2a0637c217a7d0f/maintainability" />}[https://codeclimate.com/github/TatianaPervykh/frontend-project-lvl1/maintainability]
